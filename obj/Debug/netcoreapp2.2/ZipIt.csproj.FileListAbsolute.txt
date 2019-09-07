@@ -1,0 +1,14 @@
+C:\source\ZipIt\bin\Debug\netcoreapp2.2\ZipIt.deps.json
+C:\source\ZipIt\bin\Debug\netcoreapp2.2\ZipIt.runtimeconfig.json
+C:\source\ZipIt\bin\Debug\netcoreapp2.2\ZipIt.runtimeconfig.dev.json
+C:\source\ZipIt\bin\Debug\netcoreapp2.2\ZipIt.dll
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.csprojAssemblyReference.cache
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.csproj.CoreCompileInputs.cache
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.RazorAssemblyInfo.cache
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.RazorAssemblyInfo.cs
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.AssemblyInfoInputs.cache
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.AssemblyInfo.cs
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.RazorTargetAssemblyInfo.cache
+C:\source\ZipIt\bin\Debug\netcoreapp2.2\ZipIt.pdb
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.dll
+C:\source\ZipIt\obj\Debug\netcoreapp2.2\ZipIt.pdb
