@@ -10,7 +10,7 @@ namespace ZipIt.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite(@"Data Source=Database/cities.db"); // windows      
+            optionsBuilder.UseSqlite(@"Data Source=Database/zipcodes.db"); // windows      
         }
     }
 }

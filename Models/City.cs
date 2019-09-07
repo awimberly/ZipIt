@@ -13,6 +13,6 @@ namespace ZipIt.Models
         public string StateId { get; set; }
         public string StateName { get; set; }
         public string TimeZone { get; set; }
-        public ICollection<City> Cities { get; set; }
+        //public ICollection<City> Cities { get; set; }
     }
 }
